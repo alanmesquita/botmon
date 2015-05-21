@@ -1,0 +1,22 @@
+{
+  "name": "botmon",
+  "version": "1.0.0",
+  "description": "pokemon battle",
+  "main": "app.js",
+  "dependencies": {
+    "node-slack": "",
+    "slack-client": ""
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ir7.com.br:r7tools/r7-botmon.git"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Alan Mesquita",
+  "license": "ISC"
+}
