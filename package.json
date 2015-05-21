@@ -5,7 +5,8 @@
   "main": "app.js",
   "dependencies": {
     "node-slack": "",
-    "slack-client": ""
+    "slack-client": "",
+    "request": ""
   },
   "scripts": {
     "test": "test"
