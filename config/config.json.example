@@ -3,5 +3,10 @@
     "channel": "your chanel",
     "token": "your token",
     "command": "botmon "
+  },
+  "commands": {
+    "info": {
+      "description": "Returns app's status"
+    }
   }
 }
