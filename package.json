@@ -6,7 +6,8 @@
   "dependencies": {
     "node-slack": "",
     "slack-client": "",
-    "request": ""
+    "request": "",
+    "mongoose": ""
   },
   "scripts": {
     "test": "test"
