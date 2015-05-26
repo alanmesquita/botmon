@@ -7,7 +7,8 @@
     "node-slack": "",
     "slack-client": "",
     "request": "",
-    "mongoose": ""
+    "mongoose": "",
+    "shuffle-array": ""
   },
   "scripts": {
     "test": "test"
